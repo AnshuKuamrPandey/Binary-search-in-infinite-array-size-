@@ -1,7 +1,7 @@
 public class baseCode {
     public static void main (String args[]){
         int arr[] = {21,32,43,53,65,75,666};
-        int target = 21 ;
+        int target = 3 ;
       System.out.println(  m1(arr, target));
 
     }
@@ -25,7 +25,7 @@ public class baseCode {
             
           }
         }
-        System.out.println(start+" "+ end);
+        
         return -1;
     }
 
